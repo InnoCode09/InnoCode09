@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @InnoCode09
-- 👀 I’m interested in ...software and app development
-- 🌱 I’m currently learning ...application and software development
-- 💞️ I’m looking to collaborate on ...application development
+- 👋 Hi, I’m @Bhavani Chandra
+- 👀 I worked as software development engineer
+- 🌱 I’m currently working on application development
+- 💞️ Love to code
 - 📫 How to reach me ...bhavanichandranamburi@outlook.com
 
 <!---
